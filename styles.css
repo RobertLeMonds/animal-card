@@ -2,11 +2,6 @@ html {
 	font-family: 'Arimo', sans-serif;
 }
 
-body {
-	width: 100%;
-	height: 100%;
-}
-
 h3 {
 	margin-top: 3%;
 	margin-bottom: 3%;
@@ -53,10 +48,11 @@ ul {
 }
 
 .lion {
-	width: 91%;
+	width: 90%;
 	height: auto;
 	overflow: hidden;
 	margin-left: 4.8%;
+	border: 1px solid #c7c7c7;
 }
 
 /* text styling inside container */
